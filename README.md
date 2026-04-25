@@ -1,4 +1,4 @@
-#Computing Systems
+# Computing Systems
 - Computer Systems by Bryant & O'Hallaron (https://github.com/aditya577/learning-resources/blob/main/computer-systems-bryant-ohallaron.pdf)
 - Intro to computing by Patt & Patel (https://github.com/aditya577/learning-resources/blob/main/intro-to-computing-patt-patel.pdf)
 
