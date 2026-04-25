@@ -16,3 +16,4 @@
 # Extra
 - Sorrounded by Idiots by Thomas Erikson (https://github.com/aditya577/learning-resources/blob/main/Thomas-Erikson-Surrounded-by-Idiots.pdf)
 - Surely You're Joking, Mr. Feynman! (https://github.com/aditya577/learning-resources/blob/main/Surely%20You're%20Joking%2C%20Mr.%20Feynman!.pdf)
+- Six Easy Peices by Richard Feynman (on Physics) (https://github.com/aditya577/learning-resources/blob/main/six-easy-pieces-richard-feynman.pdf)
