@@ -5,3 +5,8 @@
 
 # C programming book
 - Let us C by Yashwantkanetkar (https://github.com/aditya577/learning-resources/blob/main/Let%20us%20c%20-%20yashwantkanetkar.pdf)
+- C programm by Denis Ritchie (https://github.com/aditya577/learning-resources/blob/main/C_progamming_language_2nd_ed_ansi_c.pdf)
+
+# Java learning resources
+- Oracle latest java tutorial (https://dev.java/learn/)
+- Head First Java (https://github.com/aditya577/learning-resources/blob/main/Head_First_Java_Kathy_Sierra_Bert_Bateswww.ebook-dl.com_.pdf)
