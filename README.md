@@ -28,6 +28,7 @@
 
 ## b. Web
 - Oracle latest java tutorial (https://dev.java/learn/)
+- Java Almanac (https://javaalmanac.io/)
 
 # 6. Physics
 - Six Easy Peices by Richard Feynman (https://github.com/aditya577/learning-resources/blob/main/pdfs/physics/six-easy-pieces-richard-feynman.pdf)
@@ -35,4 +36,3 @@
 # 7. Extra
 - Sorrounded by Idiots by Thomas Erikson (https://github.com/aditya577/learning-resources/blob/main/pdfs/extra/Thomas-Erikson-Surrounded-by-Idiots.pdf)
 - Surely You're Joking, Mr. Feynman! (https://github.com/aditya577/learning-resources/blob/main/pdfs/extra/Surely%20You're%20Joking%2C%20Mr.%20Feynman!.pdf)
-- Java Almanac (https://javaalmanac.io/)
