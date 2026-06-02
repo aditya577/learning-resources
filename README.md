@@ -5,6 +5,7 @@
 # 2. OS learning resources
 ## a. Web
 - Three easy pieces (https://pages.cs.wisc.edu/~remzi/OSTEP/)
+- Three easy pieces codes repo (https://github.com/remzi-arpacidusseau/ostep-code/tree/master)
 - Three easy pieces assignment projects (https://github.com/remzi-arpacidusseau/ostep-projects)
 - other resources (https://os-book.com/)
 
