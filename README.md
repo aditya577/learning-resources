@@ -1,6 +1,9 @@
 # 1. Computing Systems
 - Computer Systems by Bryant & O'Hallaron (https://github.com/aditya577/learning-resources/blob/main/pdfs/computing_sys/computer-systems-bryant-ohallaron.pdf)
 - Intro to computing by Patt & Patel (https://github.com/aditya577/learning-resources/blob/main/pdfs/computing_sys/intro-to-computing-patt-patel.pdf)
+- Designing Data Intensive Applications by Martin Kleppmann (https://github.com/aditya577/learning-resources/blob/main/pdfs/computing_sys/Designing-Data-Intensive-App.pdf)
+- Web Scalability for Startup Engineers by Artur Ejsmont (https://github.com/aditya577/learning-resources/blob/main/pdfs/computing_sys/Web-Scalability-for-Startup-Engineers.pdf)
+- A Philosophy of Software Design by John Ousterhout (https://github.com/aditya577/learning-resources/blob/main/pdfs/computing_sys/a-philosophy-of-sw-design.pdf)
 
 # 2. OS learning resources
 ## a. Web
@@ -23,6 +26,7 @@
 # 3. C programming book
 - Let us C by Yashwantkanetkar (https://github.com/aditya577/learning-resources/blob/main/pdfs/c_prog/Let%20us%20c%20-%20yashwantkanetkar.pdf)
 - C programm by Denis Ritchie (https://github.com/aditya577/learning-resources/blob/main/pdfs/c_prog/C_progamming_language_2nd_ed_ansi_c.pdf)
+- Modern Compiler Implementation in C by Andrew W Appel (https://github.com/aditya577/learning-resources/blob/main/pdfs/c_prog/Modern-Compiler-Implementation-in-C.pdf)
 
 # 4. Java learning resources
 ## a. Books
