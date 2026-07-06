@@ -2,7 +2,7 @@
 
 ## INDEX
 - [1. Computing Systems](#1-computing-systems)
-- [2. Computing Systems](#2-system-design)
+- [2. System Design](#2-system-design)
 - [3. OS learning resources](#3-os-learning-resources) ([Web](#a-web), [Books](#b-books), [Wiki](#c-wiki), [Papers](#d-papers))
 - [4. C programming book](#4-c-programming-book)
 - [5. Java learning resources](#5-java-learning-resources) ([Books](#a-books), [Web](#b-web))
