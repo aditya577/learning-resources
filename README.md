@@ -22,11 +22,11 @@
 - Web Scalability for Startup Engineers by Artur Ejsmont — [[PDF](https://github.com/aditya577/learning-resources/blob/main/pdfs/sys_design/Web-Scalability-for-Startup-Engineers.pdf)]
 - Microservices Patterns by Chris Richardson — [[PDF](https://github.com/aditya577/learning-resources/blob/main/pdfs/sys_design/Microservices.Patterns.Examples.Chris.Richardson.pdf)]
 - System Design Interview by Alex Xu — [[Link](https://bytes.usc.edu/~saty/courses/docs/data/SystemDesignInterview.pdf)] / [[Backup](https://github.com/aditya577/learning-resources/blob/main/pdfs/sys_design/SystemDesignInterview.pdf)]
-- Domain Driven Design by Eric Evans — [[PDF](https://github.com/aditya577/learning-resources/blob/main/pdfs/sys_design/domain_driven_design_eric_evans.pdf)]
+- Domain Driven Design by Eric Evans — [[Link](https://fabiofumarola.github.io/nosql/readingMaterial/Evans03.pdf)] / [[Backup](https://github.com/aditya577/learning-resources/blob/main/pdfs/sys_design/domain_driven_design_eric_evans.pdf)]
 - Distributed Systems by Tanenbaum & Steen — [[Link](https://vowi.fsinf.at/images/b/bc/TU_Wien-Verteilte_Systeme_VO_%28G%C3%B6schka%29_-_Tannenbaum-distributed_systems_principles_and_paradigms_2nd_edition.pdf)] / [[Backup](https://github.com/aditya577/learning-resources/blob/main/pdfs/sys_design/distributed_systems_principles_and_paradigms_ed_2.pdf)]
 - Building Microservices by Sam Newman — [[PDF](https://github.com/aditya577/learning-resources/blob/main/pdfs/sys_design/Building-Microservices-Designing-Fine-Grained.pdf)]
 - Specifying Systems by Leslie Lamport — [[Link](https://lamport.azurewebsites.net/tla/book-02-08-08.pdf)] / [[Backup](https://github.com/aditya577/learning-resources/blob/main/pdfs/sys_design/specifying_systems_by_lamport.pdf)]
-- Database Internal by Alex Petrov — [[Link](https://fabiofumarola.github.io/nosql/readingMaterial/Evans03.pdf)] / [[Backup](https://github.com/aditya577/learning-resources/blob/main/pdfs/sys_design/Alex-Petrov-Database-Internals.pdf)]
+- Database Internal by Alex Petrov — [[PDF](https://github.com/aditya577/learning-resources/blob/main/pdfs/sys_design/Alex-Petrov-Database-Internals.pdf)]
 
 ## 3. OS learning resources
 ### a. Web
