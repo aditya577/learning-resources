@@ -9,6 +9,7 @@
 - [6. Physics](#6-physics)
 - [7. Extra](#7-extra)
 - [8. PDF Books Repo](#8-pdf-books-repo)
+- 9. Curated Bookmarks & Projects — [[RESOURCES.md](./RESOURCES.md)]
 
 ---
 
