@@ -62,6 +62,7 @@
 
 ## 6. Physics
 - Six Easy Pieces by Richard Feynman — [[PDF](https://github.com/aditya577/learning-resources/blob/main/pdfs/physics/six-easy-pieces-richard-feynman.pdf)]
+- The Feynman Lectures on Physics - [[URL] (https://www.feynmanlectures.caltech.edu/)]
 
 ## 7. Extra
 - Surrounded by Idiots by Thomas Erikson — [[PDF](https://github.com/aditya577/learning-resources/blob/main/pdfs/extra/Thomas-Erikson-Surrounded-by-Idiots.pdf)]
