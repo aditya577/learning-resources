@@ -9,7 +9,8 @@
 - [6. Physics](#6-physics)
 - [7. Extra](#7-extra)
 - [8. PDF Books Repo](#8-pdf-books-repo)
-- [9. Curated Bookmarked URLs](./RESOURCES_URL.md)
+- [9. Design Patterns](#9-design-patterns)
+- [10. Curated Bookmarked URLs](./RESOURCES_URL.md)
 
 ---
 
@@ -71,3 +72,6 @@
 ## 8. PDF Books Repo
 - Awesome Books Collection — [[Link](https://github.com/devxhub/awesome-book-collection/tree/main)]
 - Reference Books — [[Link](https://github.com/iamindian/References_Books/tree/master)]
+
+## 9. Design Patterns
+- Refactoring Guru - [[Link](https://refactoring.guru/)]
