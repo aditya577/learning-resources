@@ -39,4 +39,6 @@
 - Polsia — AI That Runs Your Company While You Sleep — [[Link](https://polsia.com/)]
 - AirLLM Repository — [[Link](https://github.com/lyogavin/airllm)]
 - MiroFish Repository — [[Link](https://github.com/666ghj/MiroFish)]
+- Machine Learning Systems — [[Link](https://github.com/harvard-edge/cs249r_book)]
+- Learn AI Engineering — [[Link](https://github.com/ashishps1/learn-ai-engineering)]
 - Personal Resume Document — [[Link](https://aditya577.github.io/Aditya_Ranjan_Resume.pdf)]
